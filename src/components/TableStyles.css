@@ -1,0 +1,39 @@
+.styled-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: left;
+}
+
+/* Header styles */
+.styled-table thead tr {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* Cell styles */
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+}
+
+/* Zebra striping */
+.styled-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+/* Hover effect */
+.styled-table tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+    .styled-table th,
+    .styled-table td {
+        padding: 8px;
+        font-size: 14px;
+    }
+}
