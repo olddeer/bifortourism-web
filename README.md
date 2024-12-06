@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# BI4Tourism
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**BI4Tourism** is an intuitive and interactive web application designed to enhance tourism data analysis and decision-making. It empowers users to explore, query, and interact with tourism data efficiently. Whether you're a tourism professional, analyst, or enthusiast, this app provides tools to gain insights and answer questions about the tourism industry.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+The application is divided into three main tabs, each tailored to specific user needs:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 1. Requests List
+- A comprehensive list of predefined data requests related to tourism.
+- Quickly access popular queries such as:
+  - Visitor trends over time.
+  - Top tourist destinations by season.
+  - Revenue breakdown by region or activity.
+- Save, modify, or share these requests for collaborative analysis.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 2. Query Builder
+- A user-friendly, drag-and-drop interface for building custom queries without requiring advanced technical skills.
+- Filter, sort, and analyze tourism data with ease.
+- Generate charts, tables, and visualizations directly from your queries.
+- Export query results in various formats (e.g., CSV, Excel, PDF).
 
-### `npm test`
+### 3. Chat with Bot
+- A conversational AI-powered chatbot designed to answer tourism-related questions.
+- Ask questions like:
+  - "What are the most visited attractions in 2023?"
+  - "How does visitor spending vary by age group?"
+  - "Suggest strategies to attract international tourists."
+- Get instant, insightful responses supported by data and analytics.
+- Ideal for quick insights or brainstorming sessions.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Benefits
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Efficiency**: Streamlined tools for accessing and analyzing tourism data.
+- **User-Centric**: Designed for both data-savvy professionals and casual users.
+- **Interactive**: Dynamic and engaging ways to interact with complex datasets.
+- **Customizable**: Tailor queries and insights to specific business needs or personal interests.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
